@@ -1,13 +1,13 @@
 ---
 title: ilifu Services Limited
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: An On-Premises and Cloud partner.
 intro_image: "images/logo/logo.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# A New IT Partner
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+ilifu Services provides the On-Premises and Cloud solutions your business requires. By listening closely to your needs we provide robust and reliable platforms for you to deploy your business applications upon.
