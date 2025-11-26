@@ -2,7 +2,7 @@
 title: ilifu Services Limited
 layout: home
 description: An On-Premises and Cloud partner.
-intro_image: "images/logo/logo.svg"
+intro_image: "images/illustrations/sigmund-psXNymQI7Pk-unsplash.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
