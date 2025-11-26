@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Cloud Expertise",
+    "description": "Proudly Microsoft Azure certified.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Simplification",
+    "description": "We aim to build a correctly-sized and manageable Azure platform for you.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
