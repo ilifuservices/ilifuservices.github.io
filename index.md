@@ -10,7 +10,7 @@ show_call_box: true
 
 # A New IT Partner
 
-ilifu Services provides the Cloud solutions your business seeks. As a Microsoft Partner we listen closely to your needs to provide you with robust and reliable platforms for your business applications and services.
+ilifu Services provides the Cloud solutions your business seeks. As a Microsoft Partner we listen closely to your needs to provide you with a robust and reliable Microsoft Azure cloud platform.
 
 We employ certified experts to provide your business with best-practice Microsoft Azure architecture and certified Azure Administrators to ensure platform success.
 
