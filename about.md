@@ -6,7 +6,6 @@ bodyClass: page-about
 ---
 
 _ilifu_: (noun), A sub-saharan African word meaning "cloud".
-crimen habet Priamum nec.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
